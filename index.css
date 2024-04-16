@@ -508,7 +508,7 @@
     transform: scale(1.1);
 }
 #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/youtube1.png);
 }
 
 #project2{
@@ -517,12 +517,12 @@
 }
 
 #project3{
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./images/airways.png);
 }
 
 #project4{
     margin-left: 120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./images/whethet.png);
 }
 
 
